@@ -6,3 +6,8 @@ Example:
 
     The string “10?” would have 2 permutations “101” and “100”
     The string “10??” would have 4 permutations “1000” “1001” “1010” and “1011”.
+
+Goal:
+# RESULTS:
+% ./solution "01??01??0101??01??01??01??01??01"
+Computed 16384 results in 0.014352 seconds (Jim) and 0.118293 seconds (Ross)
