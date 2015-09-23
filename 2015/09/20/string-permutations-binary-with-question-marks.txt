@@ -1,3 +1,5 @@
+http://onecodingproblem.com/2015/09/20/string-permutations-binary-with-question-marks/
+
 Question
 
 Given a string of 1’s and 0’s and question marks, give me a function that returns all the permutations of the string if a question mark can be either a one or a zero.
