@@ -1,0 +1,8 @@
+Question
+
+Given a string of 1’s and 0’s and question marks, give me a function that returns all the permutations of the string if a question mark can be either a one or a zero.
+
+Example:
+
+    The string “10?” would have 2 permutations “101” and “100”
+    The string “10??” would have 4 permutations “1000” “1001” “1010” and “1011”.
