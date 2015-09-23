@@ -14,7 +14,8 @@ var permute = function permute(unperm, perms) {
   }
   return allPerms;
 };
-var answer = function (series) {return permute(series, [])};
+var answer = function (series) {return permute(series, []); };
+
 answer('10?');
 /*
 100,101
