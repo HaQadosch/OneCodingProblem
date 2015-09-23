@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"doc",
+				"docInsert"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"stu",
+				"student_id"
+			],
+			[
+				"st",
+				"student_id"
+			],
+			[
+				"class",
+				"class_id"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"sat",
+				"state"
+			],
+			[
+				"creat",
+				"createIndex"
+			],
+			[
+				"student",
+				"student_id"
+			],
+			[
+				"sc",
+				"scores"
+			],
+			[
+				"aft",
+				"aftScore"
+			],
+			[
+				"bef",
+				"befScores"
+			],
+			[
+				"scores",
+				"befScores"
+			],
+			[
+				"validate",
+				"validateUserDoc"
+			],
+			[
+				"sta",
+				"statesCount"
+			],
+			[
+				"que",
+				"queryID"
+			],
+			[
+				"find",
+				"findAndModify"
+			],
+			[
+				"cursor",
+				"cursorEach"
+			],
+			[
+				"pro",
+				"projections"
+			],
+			[
+				"upsert",
+				"upserted"
+			],
+			[
+				"date",
+				"date_returned"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"cons",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Idontwantone/Documents/GitHub/OneCodingProblem",
+		"/C/Users/Idontwantone/Documents/GitHub/OneCodingProblem/2015",
+		"/C/Users/Idontwantone/Documents/GitHub/OneCodingProblem/2015/09",
+		"/C/Users/Idontwantone/Documents/GitHub/OneCodingProblem/2015/09/20"
+	],
+	"file_history":
+	[
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Exam/final3/Final3/db.messages.aggregate([",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Exam/Final4/blog/posts.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Exam/final3/Final3/final3-validate.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/Week6.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/hw6-5/package.json",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/hw6-5/validate.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/app.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/rs3.log",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/rs2.log",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/rs1.log",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week6/create_replica_set.19830756d7a7.sh",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/week5.js",
+		"/C/Users/Idontwantone/Documents/GitHub/FunctionalProgrammingJavascript/Exercise3.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/zips.4854d69c2ac3.json",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/hw2.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/hw4.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/hw1.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/hw3.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week5/products.ec1bc22f28be.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week4/week4.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week4/stdMillions.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week4/hw4-3/blog/posts.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week3/hw3-2and3-3/blog/posts.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week3/students.e7ed0a289cbe.json",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week3/hm3_1.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week1/app5.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/hw2-3.262a78d6ea3d/hw2-3/blog/users.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/hw2-3/blog/app.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/hw2-3/blog/routes/index.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/hw2_weather.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/hw2-3/blog/package.json",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/weather_data.7140f46b3900.csv",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/grades.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week2/app6.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/Week1Notes.txt",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/app5.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/views/error_template.html",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/views/hello2.html",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/views/fruitPicker.html",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/hw1-2/app.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/app3.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/app4.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/views/hello.html",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/app2.js",
+		"/C/Users/Idontwantone/Documents/Works/MOOC/MongoDBForNodeDev/app.js",
+		"/C/Users/Idontwantone/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Idontwantone/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Idontwantone/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Idontwantone/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_id\\\":\\s\\\"\\D",
+			"\"_id\"\\s:\\s\"\\D",
+			"update",
+			"new Me"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "oneCodingProblem.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
