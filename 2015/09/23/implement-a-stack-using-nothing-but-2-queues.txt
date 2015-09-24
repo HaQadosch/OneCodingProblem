@@ -1,0 +1,18 @@
+http://onecodingproblem.com/2015/09/23/implement-a-stack-using-nothing-but-2-queues/
+
+Question
+
+Implement a stack using nothing but 2 queues.
+
+Remember that a stack has LIFO functionality and a queue is a FIFO.  A queue typically has the following methods:
+
+    add(el) – Appends an element to the end of the queue.
+    poll() – Removes the element at the front of the queue.
+    empty()
+
+A stack has:
+
+    push(el) – Pushes an element on to the stack
+    pop(el) – Pops the last element pushed from the stack.
+
+So, use 2 of the first to implement the second. You do not need to maintain the typical runtime of these data structures.
