@@ -15,9 +15,7 @@ var stack = () => {
       let popped = undefined;
       if (!q1.empty()) {
         let q2 = queue();
-        let polled = '';
-        for (; !q1.empty(); polled=q1.poll(),q1.empty()?'':q2.add(polled));
-        popped = polled;
+        for (let polled = ''; !q1.empty(); polled=q1.poll(),q1.empty()?popped=polled:q2.add(polled));
         for (; !q2.empty(); q1.add(q2.poll()));    
       }
       return popped;
