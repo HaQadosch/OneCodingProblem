@@ -13,6 +13,6 @@ Remember that a stack has LIFO functionality and a queue is a FIFO.  A queue typ
 A stack has:
 
     push(el) – Pushes an element on to the stack
-    pop(el) – Pops the last element pushed from the stack.
+    pop() – Pops the last element pushed from the stack.
 
 So, use 2 of the first to implement the second. You do not need to maintain the typical runtime of these data structures.

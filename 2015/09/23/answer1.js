@@ -1,7 +1,7 @@
 var queue = () => {
   let inArray = [];
   return {
-      'add': el => Boolean(inArray.unshift(el))
+      'add': el => inArray.unshift(el)
     , 'poll': () => inArray.pop()
     , 'empty': () => inArray.length === 0
   };
