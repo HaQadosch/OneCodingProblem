@@ -11,7 +11,7 @@ var stack = () => {
   let q1 = queue();
   return {
       'push': (el) => q1.add(el)
-    , 'pop': function() {
+    , 'pop': () => {
       let popped = undefined;
       if (!q1.empty()) {
         let q2 = queue();
